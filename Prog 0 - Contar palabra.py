@@ -3,6 +3,10 @@
 
 """
 D:\\Tony\\Documents\\MEGAsync\\6to Sem\\Optativa PLN - Procesamiento de Lenguaje Natural\\Programas2024\\Documentos\\archivo1.txt
+
+                ¦ESTA ES UNA PRUEBA DE UNA MODIFICACION EN UN COMENTARIO EN LA PC*********************
+
+
 """
 
 import os
